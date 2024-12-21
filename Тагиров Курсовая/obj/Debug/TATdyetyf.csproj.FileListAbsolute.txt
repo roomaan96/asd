@@ -1,0 +1,32 @@
+D:\TATdyetyf\bin\Debug\TATdyetyf.exe.config
+D:\TATdyetyf\bin\Debug\TATdyetyf.exe
+D:\TATdyetyf\bin\Debug\TATdyetyf.pdb
+D:\TATdyetyf\obj\Debug\TATdyetyf.csproj.AssemblyReference.cache
+D:\TATdyetyf\obj\Debug\TATdyetyf.csproj.SuggestedBindingRedirects.cache
+D:\TATdyetyf\obj\Debug\TATdyetyf.Form1.resources
+D:\TATdyetyf\obj\Debug\TATdyetyf.Properties.Resources.resources
+D:\TATdyetyf\obj\Debug\TATdyetyf.csproj.GenerateResource.cache
+D:\TATdyetyf\obj\Debug\TATdyetyf.csproj.CoreCompileInputs.cache
+D:\TATdyetyf\obj\Debug\TATdyetyf.exe
+D:\TATdyetyf\obj\Debug\TATdyetyf.pdb
+D:\TATdyetyf\obj\Debug\TATdyetyf.Form2.resources
+E:\Курсачи\Тагиров 70%\bin\Debug\TATdyetyf.exe.config
+E:\Курсачи\Тагиров 70%\bin\Debug\TATdyetyf.exe
+E:\Курсачи\Тагиров 70%\bin\Debug\TATdyetyf.pdb
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.csproj.AssemblyReference.cache
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.csproj.SuggestedBindingRedirects.cache
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.Form1.resources
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.Form2.resources
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.Properties.Resources.resources
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.csproj.GenerateResource.cache
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.csproj.CoreCompileInputs.cache
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.exe
+E:\Курсачи\Тагиров 70%\obj\Debug\TATdyetyf.pdb
+E:\Тест веб курс\bin\Debug\TATdyetyf.exe.config
+E:\Тест веб курс\obj\Debug\TATdyetyf.exe
+E:\Тест веб курс\obj\Debug\TATdyetyf.pdb
+E:\Тест веб курс\obj\Debug\TATdyetyf.csprojResolveAssemblyReference.cache
+E:\Тест веб курс\obj\Debug\TATdyetyf.Form1.resources
+E:\Тест веб курс\obj\Debug\TATdyetyf.Form2.resources
+E:\Тест веб курс\obj\Debug\TATdyetyf.Properties.Resources.resources
+E:\Тест веб курс\obj\Debug\TATdyetyf.csproj.GenerateResource.Cache
